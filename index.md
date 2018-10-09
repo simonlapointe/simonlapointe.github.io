@@ -19,17 +19,17 @@ Forthcoming in *Social Choice and Welfare*
 with Tjasa Bjedov, Thierry Madies, and Marie-Claire Villeval  
 [\[Working Paper\]](https://www.iza.org/publications/dp/11364/does-decentralization-of-decisions-increase-the-stability-of-large-groups)
 
-[**“Love Thy Neighbour”? Linguistic Differences and Votes for Municipal Secessions in Canada**](https://doi.org/10.1016/j.regsciurbeco.2018.04.008)  
+[“Love Thy Neighbour”? Linguistic Differences and Votes for Municipal Secessions in Canada](https://doi.org/10.1016/j.regsciurbeco.2018.04.008)  
 *Regional Science and Urban Economics*, Vol. 70, pp. 229-245, 2018  
 [\[Working Paper\]](http://vatt.fi/documents/2956369/6462785/wp107.pdf/c94cbacd-1867-4c96-925a-b8de4f708705/wp107.pdf.pdf)
 
-[**Effects of Municipal Mergers on Voter Turnout**](https://www.tandfonline.com/doi/full/10.1080/03003930.2018.1465936)  
+[Effects of Municipal Mergers on Voter Turnout](https://www.tandfonline.com/doi/full/10.1080/03003930.2018.1465936)  
 *Local Government Studies*, 44:4, pp. 512-530, 2018  
 with Tuukka Saarimaa and Janne Tukiainen  
 [\[Working Paper\]](http://vatt.fi/documents/2956369/6462785/wp106.pdf/8235afba-43b9-4053-834d-6fa626a1839e/wp106.pdf.pdf)  
 Press coverage: [YLE (in Finnish)](https://yle.fi/uutiset/3-10135736)
 
-[**The Impact of Within-Party and Between-Party Ideological Dispersion on Fiscal Outcomes: Evidence from Swiss Cantonal Parliaments**](http://link.springer.com/article/10.1007/s11127-013-0149-8)  
+[The Impact of Within-Party and Between-Party Ideological Dispersion on Fiscal Outcomes: Evidence from Swiss Cantonal Parliaments](http://link.springer.com/article/10.1007/s11127-013-0149-8)  
 *Public Choice*, vol. 161, issue 1-2, October 2014
 with Tjasa Bjedov and Thierry Madies  
 [\[Working Paper\]](http://econpapers.repec.org/paper/gatwpaper/1435.htm)
