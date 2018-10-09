@@ -1,3 +1,8 @@
+---
+layout: default
+title: Presentations
+permalink: presentations
+---
 # Presentations at Conferences and Seminars
 
 Annual Meetings of the Canadian Economics Association (Montreal, Canada), June 2018  
