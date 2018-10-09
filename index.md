@@ -40,7 +40,7 @@ Public Choice, vol. 161, issue 1-2, October 2014
 {% capture text-capture %}
 Abstract: This paper studies the competition between regions to attract a firm’s investment. An important takeaway from earlier papers is that such bidding wars can improve welfare by allocating new plants to the regions that value them the most. By explicitly modeling endogenous investment choice as a multi-unit auction, we show that the firm strategically chooses an investment allocation different from the profit-maximising allocation. Specifically, the firm invests more and differentiates the plants, in turn increasing subsidies. Despite these distortions, such a bidding war retains the welfare-maximising properties of simpler models. In addition, it implements the optimal mechanism from the viewpoint of the firm.
 {% endcapture %}
-{% include widgets/toggle-field.html toggle-name="abs_bw1" button-text="Abstract" toggle-text=capture_text  footer="" %}
+{% include widgets/toggle-field.html toggle-name="abs_bw1" button-text="Abstract" toggle-text=text-capture  footer="" %}
 
 
 **Investment in Public Infrastructure and Regional Bidding Wars for Multi-Establishment Firms**  
