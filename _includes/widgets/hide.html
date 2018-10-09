@@ -1,7 +1,7 @@
 <script language="javascript"> 
 function toggle(divID,toggleID) {
-    var ele = document.getElementById(divID);
-    var text = document.getElementById(toggleID);
+    var ele = document.getElementById({{include.divID}});
+    var text = document.getElementById({{include.toggleID}});
     if(ele.style.display == "block") {
             ele.style.display = "none";
         text.innerHTML = "Abstract";
@@ -14,10 +14,9 @@ function toggle(divID,toggleID) {
 } 
 </script>
 
-Does decentralization reduce the risk of secession? An experiment (with Tjasa Bjedov, Thierry Madies, and Marie-Claire Villeval) 
-<br><i>Submitted</i>
+{{include.papertitle}}  
+{{include.coauthors}}
 <blockquote>
-<a id="toggleSecExp" href="javascript:toggle('AbsSecExp','toggleSecExp');">Abstract</a>
-<div id="AbsSecExp" style="display: none">Central governments have the option to devolve some autonomy to regional entities to appease separatist threats. We test experimentally whether decentralization of decisions reduces the risk of secession, by means of a game with nested local and global public goods. We show that increasing the number of decisions made at the local level within a smaller group reduces the likelihood that individuals vote in favor of a secession from larger groups that are theoretically able to reach higher efficiency. Votes for secession are more likely when global groups are less cooperative and local groups more cooperative. Reinforcing the local group identities has no impact on votes.</div> <br>
-Most Recent Version: Coming soon
+<a id="{{include.toggleID}}" href="javascript:toggle('{{include.divID}}','{{include.toggleID}}');">Abstract</a>
+<div id="{{include.divID}}" style="display: none">{{include.abstext}}</div> <br>
 </blockquote>
