@@ -36,7 +36,7 @@ Public Choice, vol. 161, issue 1-2, October 2014
 ## Work in Progress
 
 **The Impact of Bidding Wars on the Optimal Investment Decisions of Multi-Establishment Firms**  
-*with Pierre-Henri Morand*  
+*with Pierre-Henri Morand*
 <div class="toggle">
    <!-- Checkbox toggle -->
   <input type="checkbox" value="selected" id="bw1" class="toggle-input">
