@@ -14,9 +14,8 @@ function toggle(divID,toggleID) {
 } 
 </script>
 
-{{include.papertitle}}  
-{{include.coauthors}}
-<blockquote>
+{{include.papertitle}}  <br>
+{{include.coauthors}}  <br>
 <a id="{{include.toggleID}}" href="javascript:toggle('{{include.divID}}','{{include.toggleID}}');">Abstract</a>
-<div id="{{include.divID}}" style="display: none">{{include.abstext}}</div> <br>
-</blockquote>
+<div id="{{include.divID}}" style="display: none">{{include.abstext}}</div><br>
+
