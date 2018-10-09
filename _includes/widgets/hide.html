@@ -1,7 +1,7 @@
 <script language="javascript"> 
 function toggle(divID,toggleID) {
-    var ele = document.getElementById({{include.divID}});
-    var text = document.getElementById({{include.toggleID}});
+    var ele = document.getElementById(divID);
+    var text = document.getElementById(toggleID);
     if(ele.style.display == "block") {
             ele.style.display = "none";
         text.innerHTML = "Abstract";
