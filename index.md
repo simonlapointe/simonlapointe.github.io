@@ -31,7 +31,7 @@ with Tuukka Saarimaa and Janne Tukiainen
 Press coverage: [YLE (in Finnish)](https://yle.fi/uutiset/3-10135736)
 
 [The Impact of Within-Party and Between-Party Ideological Dispersion on Fiscal Outcomes: Evidence from Swiss Cantonal Parliaments](http://link.springer.com/article/10.1007/s11127-013-0149-8)  
-*Public Choice*, vol. 161, issue 1-2, October 2014
+*Public Choice*, vol. 161, issue 1-2, October 2014  
 with Tjasa Bjedov and Thierry Madies  
 [\[Working Paper\]](http://econpapers.repec.org/paper/gatwpaper/1435.htm)
 
