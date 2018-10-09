@@ -1,6 +1,7 @@
 ---
 title: Work in progress
 layout: default
+permalink: wip
 ---
 
 # Work in Progress
