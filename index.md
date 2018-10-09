@@ -13,10 +13,10 @@ My research interests include political and public economics, as well as regiona
 *with Carlo Perroni, Kimberley Scharf, and Janne Tukiainen*  
 Forthcoming in Journal of Public Economics
 
-[https://link.springer.com/article/10.1007%2Fs00355-018-1133-5](**Does Decentralization of Decisions Increase the Stability of Large Groups?**)  
+[**Does Decentralization of Decisions Increase the Stability of Large Groups?**](https://link.springer.com/article/10.1007%2Fs00355-018-1133-5)  
 *with Tjasa Bjedov, Thierry Madies, and Marie-Claire Villeval*  
 Forthcoming in Social Choice and Welfare
-[https://www.iza.org/publications/dp/11364/does-decentralization-of-decisions-increase-the-stability-of-large-groups]({Working Paper})
+[{Working Paper}](https://www.iza.org/publications/dp/11364/does-decentralization-of-decisions-increase-the-stability-of-large-groups)
 
 **“Love Thy Neighbour”? Linguistic Differences and Votes for Municipal Secessions in Canada**  
 Regional Science and Urban Economics, Vol. 70, 2018, pp. 229-245
