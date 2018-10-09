@@ -2,12 +2,12 @@
 function toggle(divID,toggleID) {
     var ele = document.getElementById(divID);
     var text = document.getElementById(toggleID);
-    if(ele.style.display == "block") {
+    if(ele.style.display == "inline") {
             ele.style.display = "none";
         text.innerHTML = "Abstract";
     }
     else {
-        ele.style.display = "block";
+        ele.style.display = "inline";
         text.innerHTML = "Hide Abstract";
        previous = item;
     }
