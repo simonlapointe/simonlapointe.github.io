@@ -1,3 +1,9 @@
+
+---
+layout: page
+title: Simon Lapointe
+---
+
 # Simon Lapointe
 
 Welcome to my website.
