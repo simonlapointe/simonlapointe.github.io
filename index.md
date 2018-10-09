@@ -9,28 +9,29 @@ My research interests include political and public economics, as well as regiona
 
 ## Publications
 
-[**Does Market Size Matter for Charities?**]()  
-*with Carlo Perroni, Kimberley Scharf, and Janne Tukiainen*  
-Forthcoming in Journal of Public Economics
-[\[Working Paper\]]()
+[**Does Market Size Matter for Charities?**](https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/226-2015_scharf.pdf)  
+Forthcoming in *Journal of Public Economics*  
+with Carlo Perroni, Kimberley Scharf, and Janne Tukiainen  
+[\[Working Paper\]](https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/226-2015_scharf.pdf)
 
 [**Does Decentralization of Decisions Increase the Stability of Large Groups?**](https://link.springer.com/article/10.1007%2Fs00355-018-1133-5)  
-*with Tjasa Bjedov, Thierry Madies, and Marie-Claire Villeval*  
-Forthcoming in Social Choice and Welfare  
+Forthcoming in *Social Choice and Welfare*  
+with Tjasa Bjedov, Thierry Madies, and Marie-Claire Villeval  
 [\[Working Paper\]](https://www.iza.org/publications/dp/11364/does-decentralization-of-decisions-increase-the-stability-of-large-groups)
 
 [**“Love Thy Neighbour”? Linguistic Differences and Votes for Municipal Secessions in Canada**](https://doi.org/10.1016/j.regsciurbeco.2018.04.008)  
-Regional Science and Urban Economics, Vol. 70, 2018, pp. 229-245
+*Regional Science and Urban Economics*, Vol. 70, pp. 229-245, 2018  
 [\[Working Paper\]](http://vatt.fi/documents/2956369/6462785/wp107.pdf/c94cbacd-1867-4c96-925a-b8de4f708705/wp107.pdf.pdf)
 
 [**Effects of Municipal Mergers on Voter Turnout**](https://www.tandfonline.com/doi/full/10.1080/03003930.2018.1465936)  
-*with Tuukka Saarimaa and Janne Tukiainen*  
-Local Government Studies, 44:4, 2018, pp. 512-530
-[\[Working Paper\]](http://vatt.fi/documents/2956369/6462785/wp106.pdf/8235afba-43b9-4053-834d-6fa626a1839e/wp106.pdf.pdf)
+*Local Government Studies*, 44:4, pp. 512-530, 2018  
+with Tuukka Saarimaa and Janne Tukiainen  
+[\[Working Paper\]](http://vatt.fi/documents/2956369/6462785/wp106.pdf/8235afba-43b9-4053-834d-6fa626a1839e/wp106.pdf.pdf)  
+Press coverage: [YLE (in Finnish)](https://yle.fi/uutiset/3-10135736)
 
 [**The Impact of Within-Party and Between-Party Ideological Dispersion on Fiscal Outcomes: Evidence from Swiss Cantonal Parliaments**](http://link.springer.com/article/10.1007/s11127-013-0149-8)  
-*with Tjasa Bjedov and Thierry Madies*  
-Public Choice, vol. 161, issue 1-2, October 2014
+*Public Choice*, vol. 161, issue 1-2, October 2014
+with Tjasa Bjedov and Thierry Madies  
 [\[Working Paper\]](http://econpapers.repec.org/paper/gatwpaper/1435.htm)
 
 ## Work in Progress
@@ -48,13 +49,13 @@ Public Choice, vol. 161, issue 1-2, October 2014
  </div>
 
 **Investment in Public Infrastructure and Regional Bidding Wars for Multi-Establishment Firms**  
-*with Pierre-Henri Morand*
+with Pierre-Henri Morand
 
 **Break-Ups of Municipal Health Centre Federations: Effects on Cost, Efficiency, and Quality of Services**  
-*with Mika Kortelainen, Kalevi Luoma, and Antti Moisio*
+with Mika Kortelainen, Kalevi Luoma, and Antti Moisio
 
 **How Does the Pension System Affect Politicians' Motivations?**  
-*with Mickael Melki*
+with Mickael Melki
 
 **Cooperative Behaviour of Minorities and Majorities in a Federal System: Experimental Evidence**  
-*with Tjasa Bjedov, Thierry Madies, and David Masclet*
+with Tjasa Bjedov, Thierry Madies, and David Masclet
