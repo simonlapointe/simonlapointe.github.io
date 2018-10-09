@@ -54,7 +54,6 @@ Abstract: This paper studies the competition between regions to attract a firmâ€
 
 {% include widgets/hide.html divID="absbwk" toggleID="bwk" abstext=text-capture papertitle=papertitle coauthors=coauthors %}
 
-
 **Investment in Public Infrastructure and Regional Bidding Wars for Multi-Establishment Firms**  
 *with Pierre-Henri Morand*
 
