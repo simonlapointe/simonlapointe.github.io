@@ -1,5 +1,5 @@
 ---
-layout: document
+layout: default
 title: Simon Lapointe
 ---
 
