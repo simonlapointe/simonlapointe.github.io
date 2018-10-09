@@ -4,4 +4,4 @@ title: Simon Lapointe
 permalink: cv
 ---
 
-#Curriculum Vitae
+# Curriculum Vitae
