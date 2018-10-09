@@ -2,8 +2,9 @@
 layout: default
 title: Simon Lapointe
 ---
+# Welcome!
 
-Welcome to my website. I am a Senior Researcher at the VATT Institute for Economic Research, in Helsinki, Finland. I completed my PhD in Economics at the University of Fribourg in Switzerland in 2016, and received a BScSoc in Economics from the University of Ottawa and a MSc in Economics from the London School of Economics.
+I am a Senior Researcher at the VATT Institute for Economic Research, in Helsinki, Finland. I completed my PhD in Economics at the University of Fribourg in Switzerland in 2016, and received a BScSoc in Economics from the University of Ottawa and a MSc in Economics from the London School of Economics.
 
 My research interests include political and public economics, as well as regional and urban economics.
 
