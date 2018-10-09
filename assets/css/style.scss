@@ -7,6 +7,7 @@
 
 //Style toggle
 .toggle-label {
+  background: #e5e5e5;
   padding: 0.5em;
   cursor: pointer;
   display: block;
@@ -24,6 +25,8 @@
 
 //Style content
 .toggle-content {
+  margin-bottom: 1.5em;
+  padding: 1em;
 }
 
 .toggle-input {
@@ -37,7 +40,7 @@
 //Display content when checkbox is "checked"
 .toggle-input:checked {
   ~ .toggle-content {
-    display: inline;
+    display: block;
   }
 
   ~ .toggle-label {
