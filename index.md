@@ -46,9 +46,9 @@ Abstract: This paper studies the competition between regions to attract a firm�
 *with Pierre-Henri Morand*
 
 {% capture text-capture %}
-Abstract: This paper studies the competition between regions to attract a firm’s investment. An important takeaway from earlier papers is that such bidding wars can improve welfare by allocating new plants to the regions that value them the most. By explicitly modeling endogenous investment choice as a multi-unit auction, we show that the firm strategically chooses an investment allocation different from the profit-maximising allocation. Specifically, the firm invests more and differentiates the plants, in turn increasing subsidies. Despite these distortions, such a bidding war retains the welfare-maximising properties of simpler models. In addition, it implements the optimal mechanism from the viewpoint of the firm.
+Abstract: This paper studies the competition between regions to attract a firm’s investment. An important takeaway from earlier papers is that such bidding wars can improve welfare by allocating new plants to the regions that value them the most. By explicitly modeling endogenous investment choice as a multi-unit auction, we show that the firm strategically chooses an investment allocation different from the profit-maximising allocation. Specifically, the firm invests more and differentiates the plants, in turn increasing subsidies. Despite these distortions, such a bidding war retains the welfare-maximising properties of simpler models. In addition, it implements the optimal mechanism from the viewpoint of the firm.  
 {% endcapture %}
-{% include widgets/hide.html divID="absbwk" toggleID="bwk" abstext=text-capture %}
+{% include widgets/hide.html divID="absbwk" toggleID="bwk" abstext=text-capture %}  
 
 **Investment in Public Infrastructure and Regional Bidding Wars for Multi-Establishment Firms**  
 *with Pierre-Henri Morand*
