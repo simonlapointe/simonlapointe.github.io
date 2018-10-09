@@ -1,0 +1,49 @@
+---
+---
+
+@import "{{ site.theme }}";
+.toggle {
+  margin: 0 auto;
+  max-width: 400px;
+}
+
+//Style toggle
+.toggle-label {
+  background: #fff;
+  cursor: pointer;
+  display: block;
+  font-size: 16px;
+  margin: 0 auto 1em;
+  padding: 1em;
+
+  &:after {
+    content: "+";
+    float: right;
+  }
+}
+
+//Style content
+.toggle-content {
+  padding: 1em;
+}
+
+.toggle-input {
+  display: none; //Hide input element
+
+  &:not(checked) ~ .toggle-content {
+    display: none; //Hide content
+  }
+}
+
+//Display content when checkbox is "checked"
+.toggle-input:checked {
+  ~ .toggle-content {
+    display: block;
+  }
+
+  ~ .toggle-label {
+    &:after {
+      content: "-"; //Change label's '+' to '-' when checked
+    }
+  }
+}
