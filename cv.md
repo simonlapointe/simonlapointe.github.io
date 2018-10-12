@@ -12,12 +12,12 @@ Senior Researcher @ VATT Institute for Economic Research, Helsinki, Finland
 
 ## Education
 ### Ph.D. in Economics (2011-2016)  
-Université de Fribourg (Switzerland) and Université d'Avignon (France)  
-*Vigener Prize (Best Dissertation, Faculty of Social Sciences and Economics)*  
-CHF10,000 Mobility Grant from CRUS
+Université de Fribourg (Switzerland) and Université d'Avignon (France)
+- *Vigener Prize (Best Dissertation, Faculty of Social Sciences and Economics)*  
+- CHF10,000 Mobility Grant from CRUS
 
 Supervisors: Thierry Madiès (Fribourg) and Pierre-Henri Morand (Avigon)  
-Defence Jury:  
+Defence Jury:
 - Philippe De Donder (Toulouse School of Economics)  
 - Nicolas Gravel (Aix-Marseille School of Economics)  
 - Martin Huber (University of Fribourg)  
