@@ -7,7 +7,7 @@ layout: default
 # Policy Research and Commissioned Reports
 
 **Inefficiencies and Externalities in the Financing of Counties**  
-Background Report for the Economic Policy Council (forthcoming)  
+Background Report for the Finnish Economic Policy Council (forthcoming)  
 with Mika Kortelainen
 
 [**The Labour Market and Economic Performance of Canada’s First Nations Reserves: The Effect of Educational Attainment and Remoteness**](http://csls.ca/reports/csls2011-05.pdf)  
