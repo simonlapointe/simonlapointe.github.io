@@ -5,6 +5,8 @@ permalink: presentations
 ---
 # Presentations at Conferences and Seminars
 
+ASSA Annual Meeting (Atlanta, USA), January 2019
+Annual Congress of the IIPF (Tampere, Finland), August 2018  
 Annual Meetings of the Canadian Economics Association (Montreal, Canada), June 2018  
 Annual Meetings of the European Public Choice Society (Rome, Italy), April 2018  
 Annual Meetings of the Finnish Economics Association (Turku, Finland), February 2018  
