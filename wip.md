@@ -23,7 +23,16 @@ with Pierre-Henri Morand
 
 **Break-Ups of Municipal Health Centre Federations: Effects on Cost, Efficiency, and Quality of Services**  
 with Mika Kortelainen, Kalevi Luoma, and Antti Moisio
-
+<div class="toggle">
+   <!-- Checkbox toggle -->
+  <input type="checkbox" value="selected" id="hcf" class="toggle-input">
+  <label for="hcf" class="toggle-label">Abstract</label> 
+  <!-- Content to toggle -->
+  <div role="toggle" class="toggle-content">
+Empirical evidence on economies of scale in healthcare is mostly based on the cost effects of hospital mergers. In contrast to earlier studies, this paper approaches the economies of scale issue by analyzing the secessions of Finnish healthcare districts, which are responsible for providing primary health care services to the residents of their member municipalities. We use the difference-in-difference approach to evaluate the impacts of healthcare district secessions on costs, productivity and quality of primary healthcare services in Finland between 1990 and 2003. To address potential non-random or endogenous treatment assignment of secessions, we also utilize propensity score difference-in-difference approach. Our results show that primary healthcare costs have grown considerably faster for the seceded healthcare districts than for the non-seceded ones, while outputs have increased somewhat more for the former than for the latter group. Interestingly, we find the impact of secessions to be insignificant on the productive efficiency of healthcare districts. Our results regarding the impact on quality of primary healthcare services indicate the effects of secessions to be also quite small.
+ </div>
+ </div>
+ 
 **How Does the Pension System Affect Politicians' Motivations?**  
 with Mickael Melki
 
