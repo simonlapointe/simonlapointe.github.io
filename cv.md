@@ -17,6 +17,7 @@ Université de Fribourg (Switzerland) and Université d'Avignon (France)
 - CHF10,000 Mobility Grant from CRUS
 
 Supervisors: Thierry Madiès (Fribourg) and Pierre-Henri Morand (Avigon)  
+
 Defence Jury:
 - Philippe De Donder (Toulouse School of Economics)  
 - Nicolas Gravel (Aix-Marseille School of Economics)  
