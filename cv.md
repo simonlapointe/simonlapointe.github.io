@@ -13,8 +13,8 @@ Senior Researcher @ VATT Institute for Economic Research, Helsinki, Finland
 ## Education
 ### Ph.D. in Economics (2011-2016)  
 Université de Fribourg (Switzerland) and Université d'Avignon (France)  
-- *Vigener Prize (Best Dissertation, Faculty of Social Sciences and Economics)*  
-- CHF10,000 Mobility Grant from CRUS
+*Vigener Prize (Best Dissertation, Faculty of Social Sciences and Economics)*  
+CHF10,000 Mobility Grant from CRUS
 
 Supervisors: Thierry Madiès (Fribourg) and Pierre-Henri Morand (Avigon)  
 Defence Jury:  
@@ -52,7 +52,11 @@ Economist (part-time) @ Centre for the Study of Living Standards (CSLS), Ottawa,
 ## Teaching Experience
 ### 2011-2016
 Teaching Assistant for Thierry Madiès (Tutorial Teaching, Exam Supervision, Thesis Supervision):  
-International Trade (undergraduate), International Finance (undergraduate), Advanced Topics in Public Finance (graduate), Regional Economics and New Economic Geography (graduate), European Integration (graduate).
+- International Trade (BA) 
+- International Finance (BA) 
+- Advanced Topics in Public Finance (MA)
+- Regional Economics and New Economic Geography (MA)
+- European Integration (MA)
 
 ## Professional Service
 **Refereeing:** Public Choice, International Tax and Public Finance, Spring Meeting of Young Economists  
