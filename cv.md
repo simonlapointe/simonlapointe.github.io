@@ -51,12 +51,7 @@ Economist (part-time) @ Centre for the Study of Living Standards (CSLS), Ottawa,
 
 ## Teaching Experience
 ### 2011-2016
-Teaching Assistant for Thierry Madiès (Tutorial Teaching, Exam Supervision, Thesis Supervision):  
-- International Trade (BA) 
-- International Finance (BA) 
-- Advanced Topics in Public Finance (MA)
-- Regional Economics and New Economic Geography (MA)
-- European Integration (MA)
+Teaching Assistant for Thierry Madiès (Tutorial Teaching, Exam Supervision, Thesis Supervision): International Trade (BA), International Finance (BA), Advanced Topics in Public Finance (MA), Regional Economics and New Economic Geography (MA), European Integration (MA).
 
 ## Professional Service
 **Refereeing:** Public Choice, International Tax and Public Finance, Spring Meeting of Young Economists  
@@ -71,4 +66,5 @@ Finnish: Beginner
 
 ## Computer Skills
 Mathematical Software: Stata, Mathematica, Matlab (beginner), ArcGIS (Beginner)  
+
 Other: LaTeX, HTML
