@@ -16,7 +16,7 @@ with Carlo Perroni, Kimberley Scharf, and Janne Tukiainen
 [\[Working Paper\]](https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/226-2015_scharf.pdf)
 
 [Does Decentralization of Decisions Increase the Stability of Large Groups?](https://link.springer.com/article/10.1007%2Fs00355-018-1133-5)  
-Social Choice and Welfare*,  vol. 51, no. 4, pp. 681-716  
+*Social Choice and Welfare*,  vol. 51, no. 4, pp. 681-716  
 with Tjasa Bjedov, Thierry Madies, and Marie-Claire Villeval  
 [\[Working Paper\]](https://www.iza.org/publications/dp/11364/does-decentralization-of-decisions-increase-the-stability-of-large-groups)
 
