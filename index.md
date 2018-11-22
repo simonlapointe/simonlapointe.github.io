@@ -10,13 +10,13 @@ My research interests include political and public economics, as well as regiona
 
 ## Publications
 
-[Does Market Size Matter for Charities?](https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/226-2015_scharf.pdf)  
-Forthcoming in *Journal of Public Economics*  
+[Does Market Size Matter for Charities?](https://doi.org/10.1016/j.jpubeco.2018.10.003)  
+*Journal of Public Economics*, vol. 168, pp. 127-145  
 with Carlo Perroni, Kimberley Scharf, and Janne Tukiainen  
 [\[Working Paper\]](https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/226-2015_scharf.pdf)
 
 [Does Decentralization of Decisions Increase the Stability of Large Groups?](https://link.springer.com/article/10.1007%2Fs00355-018-1133-5)  
-Forthcoming in *Social Choice and Welfare*  
+Social Choice and Welfare*,  vol. 51, no. 4, pp. 681-716  
 with Tjasa Bjedov, Thierry Madies, and Marie-Claire Villeval  
 [\[Working Paper\]](https://www.iza.org/publications/dp/11364/does-decentralization-of-decisions-increase-the-stability-of-large-groups)
 
