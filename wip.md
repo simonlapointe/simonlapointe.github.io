@@ -7,6 +7,7 @@ permalink: wip
 # Work in Progress
 
 **The Impact of Bidding Wars on the Optimal Investment Decisions of Multi-Establishment Firms**  
+[Working Paper](http://www.doria.fi/bitstream/handle/10024/166937/wp115.pdf)  
 *with Pierre-Henri Morand*
 <div class="toggle">
    <!-- Checkbox toggle -->
