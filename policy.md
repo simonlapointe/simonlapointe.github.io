@@ -9,7 +9,7 @@ layout: default
 [**Inefficiencies and Externalities in the Financing of Counties**](https://vatt.fi/julkaisu?pubid=URN%3AISBN%3A978-952-274-231-5)  
 Background Report for the Finnish Economic Policy Council (January 2019)  
 with Mika Kortelainen  
-Press coverage: [1](https://www.uusisuomi.fi/kotimaa/270039-tutkimus-loysi-pehmean-budjettikurin-ongelman-sote-uudistus-heikentaa-kannustinta) [2](https://www.verkkouutiset.fi/vatt-maakuntauudistuksen-hyodyt-heikentyvat-ilman-verotusoikeutta/)
+Press coverage: [1](https://www.uusisuomi.fi/kotimaa/270039-tutkimus-loysi-pehmean-budjettikurin-ongelman-sote-uudistus-heikentaa-kannustinta) [2](https://www.verkkouutiset.fi/vatt-maakuntauudistuksen-hyodyt-heikentyvat-ilman-verotusoikeutta/) [3](https://kuntalehti.fi/uutiset/talous/vattn-tutkijat-verotusoikeuden-puuttuminen-heikentaa-maakuntauudistuksen-hyotyja/)
 
 [**The Labour Market and Economic Performance of Canada’s First Nations Reserves: The Effect of Educational Attainment and Remoteness**](http://csls.ca/reports/csls2011-05.pdf)  
 CSLS Research Report (July 2011)  
