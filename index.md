@@ -10,7 +10,7 @@ My research interests include political and public economics, as well as regiona
 
 ## Working Papers
 
-[Subsidy Bidding Wars and the Structure of MultiPlant Firms](http://www.doria.fi/bitstream/handle/10024/166937/wp115.pdf)  
+[Subsidy Bidding Wars and the Structure of Multi-Plant Firms](http://www.doria.fi/bitstream/handle/10024/166937/wp115.pdf)  
 *VATT Working Papers 115*  
 with Pierre-Henri Morand
 
