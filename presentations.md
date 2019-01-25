@@ -7,11 +7,12 @@ permalink: presentations
 
 ## Upcoming
 
-ASSA Annual Meeting (Atlanta, USA), January 2019  
-University of Jyväskylä (Finland), November 2018
+University of Franche-Comté (Besancon, France), February 2019
 
 ## Past
 
+ASSA Annual Meeting (Atlanta, USA), January 2019  
+University of Jyväskylä (Finland), November 2018  
 Annual Congress of the IIPF (Tampere, Finland), August 2018  
 Annual Meetings of the Canadian Economics Association (Montreal, Canada), June 2018  
 Annual Meetings of the European Public Choice Society (Rome, Italy), April 2018  
