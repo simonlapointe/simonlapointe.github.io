@@ -66,6 +66,6 @@ German: Beginner
 Finnish: Beginner
 
 ## Computer Skills
-Mathematical Software: Stata, Mathematica, Matlab (beginner), ArcGIS (Beginner)  
+Mathematical Software: Stata, Mathematica, R (beginner), QGIS (Beginner)  
 
 Other: LaTeX, HTML
