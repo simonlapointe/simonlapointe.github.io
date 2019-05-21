@@ -7,8 +7,10 @@ permalink: cv
 # Curriculum Vitae
 
 ## Current Position
-2016-now  
-Senior Researcher @ VATT Institute for Economic Research, Helsinki, Finland
+
+2019-now   
+Economist @ Centre for the Study of Living Standards (CSLS)   
+Ottawa, Canada
 
 ## Education
 ### Ph.D. in Economics (2011-2016)  
@@ -36,6 +38,10 @@ University of Ottawa (Canada)
 Exchange studies at Lund University
 
 ## Past Positions
+
+### 2016-2019  
+Senior Researcher @ VATT Institute for Economic Research, Helsinki, Finland
+
 ### 2011-2016
 - Teaching and Research Assistant @ University of Fribourg, Switzerland (September 2011-October 2016)  
 - Visiting PhD Student @ Toulouse School of Economics, France (November 2015-February 2016)  
