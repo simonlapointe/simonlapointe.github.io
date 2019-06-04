@@ -6,7 +6,7 @@ layout: default
 
 # Policy Research and Commissioned Reports
 
-[**Inefficiencies and Externalities in the Financing of Counties**](https://vatt.fi/julkaisu?pubid=URN%3AISBN%3A978-952-274-231-5)  
+[**Inefficiencies in the Financing of Finnish County Governments: Lessons from the Literature on Fiscal Federalism**](https://vatt.fi/julkaisu?pubid=URN%3AISBN%3A978-952-274-231-5)  
 Background Report for the Finnish Economic Policy Council (January 2019)  
 VATT Research Report 188  
 with Mika Kortelainen  
