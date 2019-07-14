@@ -8,6 +8,9 @@ I am an Economist at the Centre for the Study of Living Standards, in Ottawa, Ca
 
 ## Working Papers
 
+[Household Incomes in Canada and the United States: Who is Better Off?](http://www.csls.ca/reports/csls2019-01.pdf)  
+*CSLS Research Report 2019-01*  
+
 [Subsidy Bidding Wars and the Structure of Multi-Plant Firms](http://www.doria.fi/bitstream/handle/10024/166937/wp115.pdf)  
 *VATT Working Papers 115*  
 with Pierre-Henri Morand
