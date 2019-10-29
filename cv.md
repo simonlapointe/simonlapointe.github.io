@@ -8,7 +8,7 @@ permalink: cv
 
 ## Current Position
 
-2019-now   
+May 2019-now   
 Economist @ Centre for the Study of Living Standards (CSLS)   
 Ottawa, Canada
 
