@@ -8,7 +8,7 @@ I am an Economist in Ottawa, Canada. Previously, I worked as a Senior Researcher
 
 ## Publications and Working Papers
 
-[Productivity of Unionized and Non-Unionized Workers in the Construction Sector: A Review of the Literature]  (http://www.csls.ca/reports/csls2020-01.pdf)
+[Productivity of Unionized and Non-Unionized Workers in the Construction Sector: A Review of the Literature](http://www.csls.ca/reports/csls2020-01.pdf)  
 *CSLS Research Report 2020-01*  
 
 [Household Incomes in Canada and the United States: Who is Better Off?](http://www.csls.ca/reports/csls2019-01.pdf)  
