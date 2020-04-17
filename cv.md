@@ -8,9 +8,7 @@ permalink: cv
 
 ## Current Position
 
-May 2019-now   
-Economist @ Centre for the Study of Living Standards (CSLS)   
-Ottawa, Canada
+Economist, Ottawa, Canada
 
 ## Education
 ### Ph.D. in Economics (2011-2016)  
@@ -38,6 +36,9 @@ University of Ottawa (Canada)
 Exchange studies at Lund University
 
 ## Past Positions
+
+### 2019-2020
+Economist @ Centre for the Study of Living Standards (CSLS), Ottawa, Canada
 
 ### 2016-2019  
 Senior Researcher @ VATT Institute for Economic Research, Helsinki, Finland
