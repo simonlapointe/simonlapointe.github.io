@@ -62,6 +62,6 @@ with Andrew Sharpe, Jean-François Arsenault and Fraser Cowan
 CSLS Research Report (February 2008)  
 with Andrew Sharpe and Jean-François Arsenault  
 
-[The Potential Contribution of Aboriginal Canadians to Labour Force, Employment, Productivity and Output Growth in Canada, 2001–2017](http://www.csls.ca/reports/csls2007-04.PDF)   
+[The Potential Contribution of Aboriginal Canadians to Labour Force, Employment, Productivity and Output Growth in Canada, 2001–2017](http://www.csls.ca/reports/csls2007-04.PDF)  
 CSLS Research Report (November 2007)  
 with Andrew Sharpe and Jean-François Arsenault
