@@ -19,6 +19,12 @@ Press Coverage: [Bloomberg](https://www.bloomberg.com/opinion/articles/2019-08-2
 *VATT Working Papers 115*  
 with Pierre-Henri Morand
 
+[**Inefficiencies in the Financing of Finnish County Governments: Lessons from the Literature on Fiscal Federalism**](https://vatt.fi/julkaisu?pubid=URN%3AISBN%3A978-952-274-231-5)  
+Background Report for the Finnish Economic Policy Council (January 2019)  
+VATT Research Report 188  
+with Mika Kortelainen  
+Press coverage: [1](https://www.uusisuomi.fi/kotimaa/270039-tutkimus-loysi-pehmean-budjettikurin-ongelman-sote-uudistus-heikentaa-kannustinta) [2](https://www.verkkouutiset.fi/vatt-maakuntauudistuksen-hyodyt-heikentyvat-ilman-verotusoikeutta/) [3](https://kuntalehti.fi/uutiset/talous/vattn-tutkijat-verotusoikeuden-puuttuminen-heikentaa-maakuntauudistuksen-hyotyja/)
+
 [Does Market Size Matter for Charities?](https://doi.org/10.1016/j.jpubeco.2018.10.003)  
 *Journal of Public Economics*, vol. 168, pp. 127-145  
 with Carlo Perroni, Kimberley Scharf, and Janne Tukiainen  
@@ -43,3 +49,19 @@ Press coverage: [YLE (in Finnish)](https://yle.fi/uutiset/3-10135736)
 *Public Choice*, vol. 161, issue 1-2, October 2014  
 with Tjasa Bjedov and Thierry Madies  
 [\[Working Paper\]](http://econpapers.repec.org/paper/gatwpaper/1435.htm)
+
+[**The Labour Market and Economic Performance of Canada’s First Nations Reserves: The Effect of Educational Attainment and Remoteness**](http://csls.ca/reports/csls2011-05.pdf)  
+CSLS Research Report (July 2011)  
+with Andrew Sharpe  
+
+[**The Effect of Increasing Aboriginal Educational Attainment on the Labour Force, Output and the Fiscal Balance**](http://www.csls.ca/reports/csls2009-3.pdf)  
+CSLS Research Report (May 2009)  
+with Andrew Sharpe, Jean-François Arsenault and Fraser Cowan
+
+[**Apprenticeship Issues and Challenges Facing Canadian Manufacturing Industries**](http://www.csls.ca/reports/csls2008-2.pdf)  
+CSLS Research Report (February 2008)  
+with Andrew Sharpe and Jean-François Arsenault  
+
+[**The Potential Contribution of Aboriginal Canadians to Labour Force, Employment, Productivity and Output Growth in Canada, 2001–2017**](http://www.csls.ca/reports/csls2007-04.PDF)   
+CSLS Research Report (November 2007)  
+with Andrew Sharpe and Jean-François Arsenault
