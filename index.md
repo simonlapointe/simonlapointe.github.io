@@ -8,6 +8,9 @@ I am an Economist in Ottawa, Canada. Previously, I worked as a Senior Researcher
 
 ## Publications and Working Papers
 
+[Impact of the Model Schools Literacy Project on Literacy and Fiscal Outcomes in First Nations in Canada](http://www.csls.ca/reports/csls2021-01.pdf)  
+*CSLS Research Report 2021-01*  
+
 [Productivity of Unionized and Non-Unionized Workers in the Construction Sector: A Review of the Literature](http://www.csls.ca/reports/csls2020-01.pdf)  
 *CSLS Research Report 2020-01*  
 
