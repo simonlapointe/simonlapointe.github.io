@@ -19,6 +19,10 @@ with Mickael Melki
 
 ## Publications and Working Papers
 
+[The Impact of Transport Infrastructure on Productivity in Canada](http://www.csls.ca/reports/csls2022-02.pdf)
+*CSLS Research Report 2022-02*  
+with Paskynel Jacques-Arvisais
+
 [Impact of the Model Schools Literacy Project on Literacy and Fiscal Outcomes in First Nations in Canada](http://www.csls.ca/reports/csls2021-01.pdf)  
 *CSLS Research Report 2021-01*  
 
