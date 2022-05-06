@@ -6,7 +6,7 @@ permalink: cv
 
 # Curriculum Vitae
 
-## Current Position
+## Current Position (Since April 2020)
 
 Economist, Ottawa, Canada
 
@@ -62,7 +62,7 @@ Economist (part-time) @ Centre for the Study of Living Standards (CSLS), Ottawa,
 Teaching Assistant for Thierry Madiès (Tutorial Teaching, Exam Supervision, Thesis Supervision): International Trade (BA), International Finance (BA), Advanced Topics in Public Finance (MA), Regional Economics and New Economic Geography (MA), European Integration (MA).
 
 ## Professional Service
-**Refereeing:** Public Choice, International Tax and Public Finance, Spring Meeting of Young Economists  
+**Refereeing:** Journal of Politics, Public Choice, International Tax and Public Finance, Spring Meeting of Young Economists  
 
 **Administrative:** Department Committee (PhD Students Delegate, Uni. Fribourg, 2014-2015), Continuing Education Fund for Young Researchers (Faculty Representant, Uni. Fribourg, 2014-2015)
 
