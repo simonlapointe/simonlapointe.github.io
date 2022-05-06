@@ -6,6 +6,17 @@ title: Simon Lapointe
 
 I am an Economist in Ottawa, Canada. Previously, I worked as a Senior Researcher at the VATT Institute for Economic Research in Helsinki, Finland. I completed my PhD in Economics in 2016 jointly at the University of Fribourg in Switzerland and the University of Avignon in France. My dissertation is available [here](https://tel.archives-ouvertes.fr/tel-01503032). Before that, I received a MSc in Economics from the London School of Economics and a BScSoc in Economics from the University of Ottawa.
 
+## Work in Progress
+
+Are Majorities Always More Cooperative than Minorities? A Multi-level Public Goods Experiment in Switzerland  
+with Tjasa Bjedov, Thierry Madies, and David Masclet
+
+Effects of Healthcare District Secessions on Costs, Productivity and Quality of Services  
+with Mika Kortelainen, Kalevi Luoma, and Antti Moisio
+
+How do Pensions Affect Politicians' Motivations? Evidence from Canada  
+with Mickael Melki
+
 ## Publications and Working Papers
 
 [Impact of the Model Schools Literacy Project on Literacy and Fiscal Outcomes in First Nations in Canada](http://www.csls.ca/reports/csls2021-01.pdf)  
