@@ -19,6 +19,12 @@ with Mickael Melki
 
 ## Publications and Working Papers
 
+[Tuition Tax Credit: A Profile of Claimants and BeneficiariesTuition](https://www.canada.ca/en/department-finance/services/publications/federal-tax-expenditures/2023/part-10.html)  
+*Report on Federal Tax Expenditures 2023*
+
+[Deductions of Other Employment Expenses and Union and Professional Dues: A Profile of Claimants and Beneficiaries](https://www.canada.ca/en/department-finance/services/publications/federal-tax-expenditures/2022/part-9.html)  
+*Report on Federal Tax Expenditures 2022*
+
 [The Impact of Transport Infrastructure on Productivity in Canada](http://www.csls.ca/reports/csls2022-02.pdf)  
 *CSLS Research Report 2022-02*  
 with Paskynel Jacques-Arvisais
