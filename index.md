@@ -8,7 +8,7 @@ I am an Economist in Ottawa, Canada. Previously, I worked as a Senior Researcher
 
 ## Work in Progress
 
-The Effects of Global and Local Heterogeneity on Cooperation in Multi-Level Public Goods: Experimental Evidence 
+The Effects of Global and Local Heterogeneity on Cooperation in Multi-Level Public Goods: Experimental Evidence  
 *R&R at Games and Economic Behavior* [[Working Paper]](https://sciencespo.hal.science/hal-05514912/document)  
 with Tjasa Bjedov, Thierry Madies, David Masclet, and Jean-Christian Tisserand
 
