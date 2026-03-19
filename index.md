@@ -9,7 +9,7 @@ I am an economist for the federal government in Ottawa, Canada. Previously, I wo
 ## Work in Progress
 
 The Effects of Global and Local Heterogeneity on Cooperation in Multi-Level Public Goods: Experimental Evidence  
-*R&R at Games and Economic Behavior* [[Working Paper]](https://sciencespo.hal.science/hal-05514912/document)  
+*R&R* [[Working Paper]](https://sciencespo.hal.science/hal-05514912/document)  
 with Tjasa Bjedov, Thierry Madies, David Masclet, and Jean-Christian Tisserand
 
 Effects of Healthcare District Secessions on Costs, Productivity and Quality of Services  
